@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://uzbcoding-backend.github.io/Mustafo-Al-Jabr-Plarform/sitemap.xml
